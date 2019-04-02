@@ -22,7 +22,7 @@ Check out [*SIGMATA: This Signal Kills Fascists*](https://www.drivethrurpg.com/p
 
 This *Airlock* campaign is called *Adjudication Space*, and is also known as *Deadeye*, *The decision game*, and *Old Testament Jesus and his space commandos!*
 
-You can also view campaign materials as Google docs [here](https://drive.google.com/open?id=1lDMSWNpVNnEiZJyFx04yC4CC5eL1brLt).
+You can also view campaign materials as Google docs [here](https://drive.google.com/open?id=1-FssGy07RWlhFZ8iE7CyldCQ5o3wq3yE).
 
 Contribute ideas, questions, and suggestions as issues. Contribute edits and more significant pieces of content through pull requests.
 
