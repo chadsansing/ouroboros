@@ -30,5 +30,5 @@ Contribute ideas, questions, and suggestions as issues. Contribute edits and mor
 
 Fonts used in campaign materials are as follows:
 
-- **Title font:** Cabin by JImpallari Type
+- **Title font:** Cabin by Impallari Type
 - **Body font:** Droid Sans by Ascender
