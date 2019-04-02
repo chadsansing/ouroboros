@@ -1,4 +1,5 @@
-# airlock-campaign
+# Ouroboros
+
 A repo for *Ouroboros,* a campaign for the *Airlock* TTRPG by Chad Walker
 
 ![Ouroboros banner](/images/ouroboros-title-1.png)
