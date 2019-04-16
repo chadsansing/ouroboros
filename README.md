@@ -12,7 +12,7 @@ Check out the [overview](/player-resources/overview.md) to learn more.
 
 ## Miscellaneous
 
-Look for an official release of *Airlock* soon!
+Now avbailable: [*Airlock*](https://www.drivethrurpg.com/product/272281/Airlock)!
 
 Check out [*SIGMATA: This Signal Kills Fascists*](https://www.drivethrurpg.com/product/247973/SIGMATA-This-Signal-Kills-Fascists?src=hottest) and [*Cryptomancer*](http://cryptorpg.com), also by Chad Walker. *Airlock* is a *SIGMATA* hack.
 
