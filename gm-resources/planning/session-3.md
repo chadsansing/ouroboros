@@ -28,6 +28,19 @@ Lighthouse shares that when he made his report, he felt his futures constrict wi
 
 Once the PCs reach Fiendhunter, he will say, "I knew you were coming. But it's already too late. Ask your questions quickly. Before the Black Badges kill me."
 
+Fiendhunter is:
+
+- A pensioner in an old, worn-down, but not scrapped part of the station. Old Piscean pensioners leaning on railings. Gosspining about the future. Younger working class Pisceans making deliverioes, going to work in coveralls.
+- Tiers of habitats, railings, ladders, stairs. Architecture from an older age of station efficiency, maybe rusty and archaic now rather than crammed in.
+- Bent by age, but always pushing against it to sit and stand straight.
+- Alone in the dark. Salt lamps gicing off just a few lumins. Blinds drawn against the hum and glare of station life.
+- Always drinking water.
+- Blue, mottled with pourple. Wrinkled. Skin like looking at the top of the ocean.
+- Wearing a precog jumpsuit with his callsign.
+- Carrying a slag-caster in a hip holster.
+- An old, faded vac suit hanging on a peg by the door.
+- Surrounded by pictures of him and his family - parents, siblings, their families. Not his own family.
+
 The PCs might discover that:
 
 - Project Nine Bows was an invasion force disguised as a relief missions.
