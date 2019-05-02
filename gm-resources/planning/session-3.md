@@ -22,7 +22,7 @@ Lighthouse contacts the PCs. High command has ordered them to purge their logs a
 
 Lighthouse doesn't like it. He says, "Gravity," which is your key to switch to an encrypted channel you set up with him when he became your handler. Once you respond with, "Wins," he'll know it's safe to speak freely.
 
-Lighthouse shares that when he made his report, he felt his futures constrict with every order he got to bury this mission and drown you all within military bureaucracy. He wants you to disregard the high command while he stalls. Instead, he wants you to poke around about Project Nine Bows. He's called in some favors and has a name - well, a callsign. An old pensioner on Chlorine. Fiendhunter. Find him. Find out what Project Nine Bows is and what Fiendhunter had to do with it. 
+Lighthouse shares that when he made his report, he felt his futures constrict with every order he got to bury this mission and drown you all within military bureaucracy. He wants you to disregard the high command while he stalls. Instead, he wants you to poke around something called Project Nine Bows. He's called in some favors and has a few names - well, Nine Bows and a callsign. An old pensioner on Chlorine. Fiendhunter. Find him. Find out what Project Nine Bows is and what Fiendhunter had to do with it. 
 
 "Get to Chlorine, just don't report to high command. I'll stall for you."
 
@@ -30,10 +30,10 @@ Once the PCs reach Fiendhunter, he will say, "I knew you were coming. But it's a
 
 Fiendhunter is:
 
-- A pensioner in an old, worn-down, but not scrapped part of the station. Old Piscean pensioners leaning on railings. Gosspining about the future. Younger working class Pisceans making deliverioes, going to work in coveralls.
+- A pensioner in an old, worn-down, but not scrapped part of the station. Old Piscean pensioners leaning on railings. Gosspining about the future. Younger working class Pisceans making deliveries, going to work in coveralls.
 - Tiers of habitats, railings, ladders, stairs. Architecture from an older age of station efficiency, maybe rusty and archaic now rather than crammed in.
 - Bent by age, but always pushing against it to sit and stand straight.
-- Alone in the dark. Salt lamps gicing off just a few lumins. Blinds drawn against the hum and glare of station life.
+- Alone in the dark. Salt lamps giving off just a few lumens. Blinds drawn against the hum and glare of station life.
 - Always drinking water.
 - Blue, mottled with pourple. Wrinkled. Skin like looking at the top of the ocean.
 - Wearing a precog jumpsuit with his callsign.
@@ -49,7 +49,7 @@ The PCs might discover that:
 - The built the *Ouroboros* fleet in secret. Five illegal colony ships to fool and destroy the Nine Bows.
 - We built a long-range chain of observation buoys and staffed them with entangled precogs to report on the progress of the fleet. The fleet dropped more as it traveled. Batteries and sacs of nutrients embalming our bes adjudicators. I was one of them. Close to the system. Relieved aftera decacde.
 - Our controller, Wallfacer, he's on Copper, refusing to leave his post until he can warn us of Ammit's return with the Nine Bows. 
-- A few of us are left alivein buoys, though the precog command stoppedour changing of the guard ten years ago. 
+- A few of us are left alive in buoys, though the precog command stopped our changing of the guard ten years ago. 
 - Something happened. We lost 2 ships. 2 went on to Nine Bows. You found the 1 that returned here to warn us what happened.
 - Ammit built itself from the dreams of the sleeping commandos. In assessing their mental health, it learned to read their dreams and discern their intent. It concluded that we, the Pisceans, had to be destroyed to save all other life. All it's ever known of the Pisceans are our commandos' dreams of war. It built its other intelligences to test strategies against us and decided to press on to Nine Bows, turning our troops against as and going to Nine Bows to rescue the people and help them invade us.
 - Most precogs can't read the threads of machines.
