@@ -48,7 +48,7 @@ Zharga tosses out 4 badges from beneath their cape. 3 are Psychopomp badges. 1 i
 
 Once the PCs have chosen, Zharge unshackles Lighthouse, rips out their staff command badge, and replaces it with an Adjudicator badge and addresses Lightouse instead of the PCs. "That one" - pointing at the PCs' Adjudicator - "makes it back to report no matter the cost. The rest can die with this heretical project."
 
-Lighthouse looks at the PCs, spreads their arms as if to apologize, and then sweeps them towards the ramp of the scoop ship as if in invitation. "Find Ammit. Determine its intent and strength. Delay it if possible. Report back. The *Ghost Shark* is yours." Lighthouse grins, as if delighted by everything that's happened. "See you in 20. I'm going to need your help to fix a mistake."
+Lighthouse looks at the PCs, spreads their arms as if to apologize, and then sweeps them towards the ramp of the scoop ship as if in invitation. "You like it? Hyrbid tech. Faster than anything we've ever made. It'll take you no time to reach Nine Bows. Find Ammit. Determine its intent and strength. Delay it if possible. Report back. The *Ghost Shark* is yours." Lighthouse grins, as if delighted by everything that's happened. "See you in 20. I'm going to need your help to fix a mistake."
 
 ## What happens next?
 
