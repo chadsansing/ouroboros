@@ -38,7 +38,7 @@ Alarm starts at 3 - the station is swarming with techs and Black Badge security.
 
 ### Scene 5
 
-Waiting for the PCs at the ramp to the scoop ship is Admiral Zharga, CO of the pre cog command. Zharga is flanked by a squad of Black Badges. Lighthouse is with them, kneeling, bound in grav shackles.
+Waiting for the PCs at the ramp to the scoop ship is Admiral Zharga, CO of the pre cog command. Zharga is flanked by a platoon of Black Badges. Lighthouse is with them, kneeling, bound in grav shackles.
 
 Zharga motions for the PCs to drop their arms.
 
