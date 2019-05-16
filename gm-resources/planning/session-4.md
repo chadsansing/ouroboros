@@ -24,6 +24,8 @@ Intrigue.
 
 Copper, Iron, and Sodium are tearing one another apart. The *Urchin* won't last. Wallfacer is preparing to descened to the deepest parts of Copper Station, to seal themselves in, and wait out the pass. PCs have 3 turns to make as much progress as possible at Pressure 4 before they'll be marooned here.
 
+Wallfacer is ancient and quiet and pale blue wrapped inside a now too-big case of Adjudicator armor.
+
 ### Scene 4
 
 Evasion.
@@ -40,7 +42,7 @@ Waiting for the PCs at the ramp to the scoop ship is Admiral Zharga, CO of the p
 
 Zharga motions for the PCs to drop their arms.
 
-Then he looks at Sojourn. "Welcome back to the corps."
+Then he looks at Sojourn. "Welcome back to the corps." And, "You are all sentenced to damnatio memoriae."
 
 Zharga tosses out 4 badges from beneath their cape. 3 are Psychopomp badges. 1 is an Adjudicator badge. It's clear that the PCs are expected to choose.
 
