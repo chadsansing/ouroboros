@@ -63,7 +63,7 @@ Ship time
 
 The PCs make it back to the inner system, 20 years later.
 
-They're intercepted by the *Undertow*, a destroyer guarding the gate to Gemini. The Gemini refuses to let them pass and threatens to fire on them - clearly this is a Stranger incursion!
+They're intercepted by the *Undertow*, a destroyer guarding the gate to Gemini. The *Undertow* refuses to let them pass and threatens to fire on them - clearly this is a Stranger incursion!
 
 Another destroyer decelerates into near space. It's the *Godly Whale*. A familiar voice on the comms: "*Undertow*, this is *Godly Whale* actual. Fuck off. We're retrieving our asset, Purge your logs of the last 4 hours. *Ghost Shark*, it's Lifeboat. Welcome aboard."
 
