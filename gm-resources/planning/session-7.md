@@ -10,7 +10,7 @@ The PCs must testify against Zharga in return for the rewards they negotiate wit
 
 Ship time.
 
-Gethu gives the PCs time to freshen up in opulane quarters aboard his regular military flagship.
+Gethu gives the PCs time to freshen up in opulent quarters aboard his regular military flagship.
 
 The PCs can metagame and calbirate and rekindle relationships.
 
@@ -32,7 +32,7 @@ The *Icebreaker* docks on Chlorine.
 
 Gethu calls together the high council in its chamber. Zharga, Gethu, and Byorme, to hear evidence against Zharga and remove him from command and the council.
 
-The PCs arrive to find Gethu and Byorme and their adviosors, minor atendants, and guards. Gethu says the proceeedings will begin once Zharga arrives. It's a tense moment.
+The PCs arrive to find Gethu and Byorme and their advisors, minor atendants, and guards. Gethu says the proceeedings will begin once Zharga arrives. It's a tense moment.
 
 Adjudicators lead in a uniformed admiral, insanely well-decorated, wearing a disruptor lid - Burn recognizes these. Inside their are bliding lights, deafening noises, cauterizing wires - everything you'd need to dull the senses and distract someone with pain and fear of loss. The most diseased and disassociated troops among the Piscean invasion and occupation forces sometimes used them on Ohka prisoners.
 
@@ -52,7 +52,7 @@ Gethu accuses Zharga of treason brought on by the hubris of their precognitive p
 - Putting the entire future of the Piscean system at risk in 40 years' time timeo satisfy their murderous impulses.
 - Keeping all of this secret from the high council and denying due process of adjudication that might have led to vastly different outcomes.
 
-Byorme can't believe any of this: "Zharga has safeguarded our furture for generations, Gethu. I warn you - if you overreach!"
+Byorme can't believe any of this: "Zharga has safeguarded our furture for generations, Gethu. I warn you - if you overreach there will be repercussions!"
 
 Gethu invites the PCs to read their statements. The agenda is to convince Byorme of Zharga's guilt. Pressure 4.
 
@@ -112,7 +112,7 @@ And Lifeboat gets Urchin out of the way in the nick of time to avoid colliding w
 
 Before the emergency channel is cut off: "You move like a goddamn space whale." And Gyro, a moment of loss and confusion as your drone lifts off, hovers nearby, and reaches out to someone or something else in a strange fellowship, and then returns to perch on you.
 
-Moments later, as Gyro moves towards engineering, they call you all down to the galley. There are also 4 crates, each addressed to a different crew member. A stack of slimtabs on the table, as well. Manifests for the *Ouroboros* ships; HUMINT analysis from the buouys.
+Moments later, as Gyro moves towards engineering, they call you all down to the galley. There are also 4 crates, each addressed to a different crew member. A stack of slimtabs on the table, as well. Manifests for the *Ouroboros* ships; HUMINT analysis on the fleet and Ammit from the buouys.
 
 To Sojourn: "The curse of living." A dynamic virtual map of the outer system showing the positions of the buouys from decades past until a hundred years in the future. A hand-written journal cataloging the name, callsign, rank, and exploits of every pre-cog entombed in a buouy, each name accompanied by a rough sketch of the Psychopomp badge. The last page: "Sojourn, Férnei tin Entolí Apó to Káos, Captain, Psychopomp. Unkillable. The one that brought them home."
 
